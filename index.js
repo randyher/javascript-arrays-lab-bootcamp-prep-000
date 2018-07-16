@@ -1,1 +1,1 @@
-var kittens=[""]
+var kittens=["Milo","Otis",]
